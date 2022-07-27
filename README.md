@@ -1,1 +1,1 @@
-# vue-use-group-study
+# Repositório para estudos em grupo da lib VueUse
